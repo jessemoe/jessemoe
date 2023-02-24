@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Blockchain.
 - 🌱 I’m currently learning Rust.
-- 🤔 I’m looking for remote work.
+- 🤔 I’m looking for remote work oppo.
 - 📫 How to reach me: t.me/blureth
 - 😄 Pronouns: ...
 
