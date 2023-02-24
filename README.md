@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Blockchain.
 - 🌱 I’m currently learning Rust.
 - 🤔 I’m looking for remote work oppo.
-- 📫 How to reach me: t.me/blureth
+- 📫 How to reach me: https://t.me/blureth
 - 😄 Pronouns: ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark-eth&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
