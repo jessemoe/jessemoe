@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 ![Hugo](https://img.shields.io/badge/Hugo-000?&logo=Hugo&labelColor=000)
 
 
-[![Jesse's GitHub stats](https://github-readme-opt.vercel.app/api?username=jessegpt&theme=radical)](https://github.com/starkbtc/starkbtc)
-[![Top Langs](https://github-readme-opt.vercel.app/api/top-langs/?username=jessegpt&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesse's GitHub stats](https://github-readme-opt.vercel.app/api?username=jesseid&theme=radical)](https://github.com/jesseid/jesseid)
+[![Top Langs](https://github-readme-opt.vercel.app/api/top-langs/?username=jesseid&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
