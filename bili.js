@@ -8,8 +8,7 @@
 hostname = %APPEND% ap?.bili*i.com, ap?.bili*i.net  
   
 [Script]  
-bili自动=type=http-request,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/v\d\/search\/defaultwords) ,
-script-path=https://raw.githubusercontent.com/jessemoe/jessemoe/main/bili.js
+bili自动=type=http-request,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/, script-path=https://raw.githubusercontent.com/jessemoe/jessemoe/main/bili.js
 
 *******************************/
 // https://raw.githubusercontent.com/jessemoe/jessemoe/main/bili.js
